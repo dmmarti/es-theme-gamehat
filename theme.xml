@@ -160,8 +160,8 @@ version         1.0
       </text>
       <textlist name="gamelist">
          <zIndex>39</zIndex>       
-         <pos>0.625 0.1</pos>
-         <size>0.355 0.85</size>
+         <pos>0.625 0.0975</pos>
+         <size>0.355 0.86</size>
          <fontSize>0.039</fontSize>      
          <alignment>center</alignment>
       </textlist>
